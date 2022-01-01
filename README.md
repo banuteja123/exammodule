@@ -1,1 +1,2 @@
 # exammodule
+[calculator](calculatorexam.c)
